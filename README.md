@@ -58,8 +58,8 @@ This project is a **React-based Admin Dashboard** designed to manage users, role
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/admin-dashboard.git
-   cd admin-dashboard
+   git clone https://github.com/Haileliul/-RBAC-User-Interface.git
+   cd -RBAC-User-Interface
    ```
 2. **Install Dependencies**
    ```bash
