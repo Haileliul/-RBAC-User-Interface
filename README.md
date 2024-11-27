@@ -69,7 +69,7 @@ This project is a **React-based Admin Dashboard** designed to manage users, role
    ```
 3. **Run the Development Server**
    ```bash
-   npm start
+   npm run dev
    # or
-   yarn start
+   yarn run dev
    ```
